@@ -120,7 +120,7 @@ Author: [your name]
 
 This skill comes out of a broader framework for thinking about AI adoption called Specification Engineering. The core insight is that real-time oversight of an AI model doesn't work for long-running agents. The oversight has to be embedded upfront, in the specification itself. The spec is the supervision.
 
-Read more: [Medium article link]
+Read more: https://medium.com/@satoricanton/the-spec-is-the-system-2492d38a4b75
 
 ---
 
