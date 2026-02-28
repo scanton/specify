@@ -2,6 +2,8 @@
 
 A Claude Cowork skill that walks you through the **5 Pillars of Specification Engineering** to turn a rough requirement into a complete, airtight specification. Works for AI agent specs, human task briefs, product requirements, and any workflow you want to delegate reliably.
 
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/e18e4bf8-d779-42cb-a7fd-aca49d5a44ff" />
+
 ---
 
 ## What It Does
